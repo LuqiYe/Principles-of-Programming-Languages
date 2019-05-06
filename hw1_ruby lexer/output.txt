@@ -1,0 +1,32 @@
+Token: ID Lexeme: x
+Token: Whitespace Lexeme:  
+Token: = Lexeme: =
+Token: Whitespace Lexeme:  
+Token: INT Lexeme: 3
+Token: Whitespace Lexeme: 
+Token: ID Lexeme: y
+Token: Whitespace Lexeme:  
+Token: = Lexeme: =
+Token: Whitespace Lexeme:  
+Token: INT Lexeme: 5
+Token: Whitespace Lexeme: 
+Token: ID Lexeme: z
+Token: Whitespace Lexeme:  
+Token: = Lexeme: =
+Token: Whitespace Lexeme:  
+Token: ( Lexeme: (
+Token: ID Lexeme: x
+Token: Whitespace Lexeme:  
+Token: + Lexeme: +
+Token: Whitespace Lexeme:  
+Token: ID Lexeme: y
+Token: ) Lexeme: )
+Token: Whitespace Lexeme:  
+Token: / Lexeme: /
+Token: Whitespace Lexeme:  
+Token: INT Lexeme: 3
+Token: Whitespace Lexeme: 
+Token: print Lexeme: print
+Token: Whitespace Lexeme:  
+Token: ID Lexeme: z
+Token: eof Lexeme: eof
